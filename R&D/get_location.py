@@ -15,3 +15,4 @@ geo_request = requests.get(geo_request_url)
 geo_data = geo_request.json()
 print(geo_data['latitude'])
 print(geo_data['longitude'])
+#blah blah blah
