@@ -1,0 +1,1 @@
+g++ Server.cpp Main.cpp Parser.cpp -o receiver -std=c++11

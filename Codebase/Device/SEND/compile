@@ -1,0 +1,1 @@
+g++ Main.cpp SensorData.cpp Client.cpp -o sender -std=c++11
